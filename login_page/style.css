@@ -1,0 +1,40 @@
+#signup-body{
+    background-image: url(image2.jpg);
+    background-size: cover;
+    text-align: center;
+}
+#login-body{
+    background-image: url(image1.jpg);
+    background-size: cover;
+    text-align: center;
+}
+#signup-h1{
+    color: black;
+    text-align: center;
+
+}
+#login-h1{
+    color: black;
+    text-align: center;
+}
+.signup-class{
+    background-color: yellow;
+    opacity: 0.4;
+    height: 225px;
+    width: 210px;
+    text-align: center;
+    margin: auto;
+    font: bolder;
+    font-size: medium;
+}
+.login-class{
+    background-color: coral;
+    opacity: 0.5;
+    height: 200px;
+    width: 210px;
+    text-align: center;
+    margin: auto;
+    font: bolder;
+    font-size: medium;
+}
+}
